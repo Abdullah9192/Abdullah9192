@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah9192&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Abdullah9192&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah9192&area=true" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Abdullah9192&no-bg=true&theme=dracula" height="150" alt="trophy graph"  />
 </div>
@@ -89,7 +90,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abdullah9192/Abdullah9192/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -100,6 +100,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@abdullahcapri1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdullahcapri1)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]()
 
 ###
 
