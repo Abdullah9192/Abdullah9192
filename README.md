@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a Full Stack Developer with over a 2+ years experience I build many scalable website , web portal , dashboards , e-comm , CRM's , I'm here to collaborate with you and build something innovative!</h2>
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a MERN Stack Developer with over a 2+ years experience I build many scalable website , web portal , dashboards , e-comm , CRM's , I'm here to collaborate with you and build something innovative!</h2>
 
 ###
 
