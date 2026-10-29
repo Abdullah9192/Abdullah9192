@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a Full Stack Developer specalized in MERN Stack with over a 2+ years experience I've been involved in building many high scalable web applications like web portal , dashboards , e-comm , CRM's , I'm here to collaborate with you and build something innovative!</h2>
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a Full Stack Developer specalized in MERN Stack with over a 3+ years experience I've been involved in building many high scalable web applications like web portal , dashboards , e-comm , CRM's , I'm here to collaborate with you and build something innovative!</h2>
 
 ###
 
