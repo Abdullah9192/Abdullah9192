@@ -41,8 +41,6 @@ I'm always interested in innovative ideas, challenging projects, and opportuniti
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah9192&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullah9192&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah9192&area=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Abdullah9192&no-bg=true&theme=dracula" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -59,8 +57,6 @@ I'm always interested in innovative ideas, challenging projects, and opportuniti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
