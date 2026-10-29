@@ -18,7 +18,7 @@ I turn ideas into scalable, production-ready digital products. With <b>3+ years 
   <li>💳 <b>Payments & Integrations:</b> Stripe, Payment Gateways, Webhooks, and External API Integrations.</li>
   <li>🚢 <b>Deployment & Delivery:</b> Production Deployments, Application Configuration, Troubleshooting, and Performance Optimization.</li>
   <li>🤝 <b>Client Collaboration:</b> Understanding Business Requirements, Translating Ideas into Technical Solutions, Direct Client Communication, and End-to-End Project Delivery.</li>
-</ul>
+</ul>  
 
 <h3 align="left">💡 How I Think</h3>
 
@@ -37,11 +37,6 @@ I'm always interested in innovative ideas, challenging projects, and opportuniti
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah9192&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abdullah9192&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
