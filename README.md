@@ -1,4 +1,40 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a Full Stack Developer specalized in MERN Stack with over a 3+ years experience I've been involved in building many high scalable web applications like web portal , dashboards , e-comm , CRM's , I'm here to collaborate with you and build something innovative!</h2>
+<h2 align="left">Hi 👋, I'm Abdullah Imran</h2>
+
+<h3 align="left">🚀 Full Stack Developer | Backend Engineer | AI Integrator</h3>
+
+<p align="left">
+I turn ideas into scalable, production-ready digital products. With <b>3+ years of experience in software development</b>, I specialize in building powerful backend systems with <b>Node.js and NestJS</b>, crafting modern frontend experiences, integrating AI into real-world applications, and taking projects from concept to deployment.
+</p>
+
+<p align="left">
+🚀 <b>From frontend to backend, AI to deployment, and ideas to production — I build solutions that solve real problems.</b>
+</p>
+
+<ul>
+  <li>⚙️ <b>Backend Engineering:</b> Node.js, NestJS, Express.js, REST APIs, Microservices, Authentication, and Scalable Architecture.</li>
+  <li>🎨 <b>Frontend Development:</b> React.js, Next.js, TypeScript, and Modern Responsive Interfaces.</li>
+  <li>🤖 <b>AI & Automation:</b> AI-Powered Applications, Intelligent Agents, Customer Support Automation, and Third-Party Integrations.</li>
+  <li>🗄️ <b>Databases & Cloud:</b> MongoDB, PostgreSQL, Firebase, Supabase, AWS, and Database Optimization.</li>
+  <li>💳 <b>Payments & Integrations:</b> Stripe, Payment Gateways, Webhooks, and External API Integrations.</li>
+  <li>🚢 <b>Deployment & Delivery:</b> Production Deployments, Application Configuration, Troubleshooting, and Performance Optimization.</li>
+  <li>🤝 <b>Client Collaboration:</b> Understanding Business Requirements, Translating Ideas into Technical Solutions, Direct Client Communication, and End-to-End Project Delivery.</li>
+</ul>
+
+<h3 align="left">💡 How I Think</h3>
+
+<p align="left">
+I don't just write code. I understand the problem, design the solution, build the system, integrate the right technologies, and help turn it into a working product.
+</p>
+
+<p align="left">
+Whether it's a complex backend, a full-scale ERP, an e-commerce platform, an AI-powered system, or a custom business solution, I focus on building software that is <b>scalable, maintainable, and built for real-world use.</b>
+</p>
+
+<h3 align="left">🤝 Let's Build Something Great!</h3>
+
+<p align="left">
+I'm always interested in innovative ideas, challenging projects, and opportunities to build technology that makes a difference.
+</p>
 
 ###
 
